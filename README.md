@@ -70,4 +70,4 @@ PrimeFinder é uma aplicação desenvolvida em C# para encontrar números primos
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
 ## Contato
-Para dúvidas ou sugestões, abra uma issue ou envie um e-mail para seuemail@dominio.com.
+Para dúvidas ou sugestões, abra uma issue ou envie um e-mail para andre@ribas.su.
