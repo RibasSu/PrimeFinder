@@ -1,3 +1,26 @@
+# Build
+bin/
+obj/
+
+# Arquivos temporários
+*.tmp
+*.log
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Banco de dados específico
 primes.db
 primes.db-journal
-/bin
+
+# Cache e artefatos
+*.db-wal
+*.db-shm
+
+# VS Code
+.vscode/
+
+# Rider / JetBrains
+.idea/
+*.iml

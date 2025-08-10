@@ -130,6 +130,6 @@ class Program
             cmd.ExecuteNonQuery();
         }
 
-        tx.Commit(); // ✅ Commit seguro ao final, sem Dispose manual
+        tx.Commit();
     }
 }
